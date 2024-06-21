@@ -3021,6 +3021,43 @@
       "mapSizeType": "Playable Area"
     },
     {
+      "Name": "GE_Narva_Invasion_v1_RUSOF-WAGPMC",
+      "rawName": "GE_Narva_Invasion_v1_RUSOF-WAGPMC",
+      "levelName": "Narva",
+      "minimapTexture": "",
+      "lightingLevel": "",
+      "lighting": "Day",
+      "border": [],
+      "team1": {
+        "faction": "RUSOF",
+        "teamSetupName": "RUSOF",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "WAGPMC",
+        "teamSetupName": "WAGPMC",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "type": "",
+      "mapName": "Narva",
+      "gamemode": "Invasion",
+      "layerVersion": "v1",
+      "mapSize": "0x0 km",
+      "mapSizeType": "Playable Area"
+    },
+    {
       "Name": "GE_Narva_Invasion_v4_SC-USA",
       "rawName": "GE_Narva_Invasion_v4_SC-USA",
       "levelName": "Narva",

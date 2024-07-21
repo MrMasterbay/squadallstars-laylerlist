@@ -3736,43 +3736,6 @@
       "layerVersion": "v2",
       "mapSize": "0x0 km",
       "mapSizeType": "Playable Area"
-    },
-    {
-      "Name": "SU_Tallil_Seed_v1_SAAvTLF_MidDay",
-      "rawName": "SU_Tallil_Seed_v1_SAAvTLF_MidDay",
-      "levelName": "Tallil",
-      "minimapTexture": "",
-      "lightingLevel": "",
-      "lighting": "Day",
-      "border": [],
-      "team1": {
-        "faction": "SAA",
-        "teamSetupName": "SAA",
-        "tickets": 0,
-        "playerPercent": 50,
-        "disabledVeh": true,
-        "intelOnEnemy": 0,
-        "actions": 0,
-        "commander": true,
-        "vehicles": []
-      },
-      "team2": {
-        "faction": "TLF",
-        "teamSetupName": "TLF",
-        "tickets": 0,
-        "playerPercent": 50,
-        "disabledVeh": true,
-        "intelOnEnemy": 0,
-        "actions": 0,
-        "commander": true,
-        "vehicles": []
-      },
-      "type": "",
-      "mapName": "Tallil",
-      "gamemode": "Seed",
-      "layerVersion": "v1",
-      "mapSize": "0x0 km",
-      "mapSizeType": "Playable Area"
     }
   ]
 }

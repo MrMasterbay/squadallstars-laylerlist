@@ -3625,43 +3625,6 @@
       "layerVersion": "v1",
       "mapSize": "0x0 km",
       "mapSizeType": "Playable Area"
-    },
-    {
-      "Name": "SU_Tallil_AAS_v1_TLFvsIRIAGF_MidDay",
-      "rawName": "SU_Tallil_AAS_v1_TLFvsIRIAGF_MidDay",
-      "levelName": "Tallil",
-      "minimapTexture": "",
-      "lightingLevel": "",
-      "lighting": "Day",
-      "border": [],
-      "team1": {
-        "faction": "TLF",
-        "teamSetupName": "TLF",
-        "tickets": 0,
-        "playerPercent": 50,
-        "disabledVeh": true,
-        "intelOnEnemy": 0,
-        "actions": 0,
-        "commander": true,
-        "vehicles": []
-      },
-      "team2": {
-        "faction": "IRIAGF",
-        "teamSetupName": "IRIAGF",
-        "tickets": 0,
-        "playerPercent": 50,
-        "disabledVeh": true,
-        "intelOnEnemy": 0,
-        "actions": 0,
-        "commander": true,
-        "vehicles": []
-      },
-      "type": "",
-      "mapName": "Tallil",
-      "gamemode": "AAS",
-      "layerVersion": "v1",
-      "mapSize": "0x0 km",
-      "mapSizeType": "Playable Area"
     }
   ]
 }

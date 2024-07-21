@@ -1409,7 +1409,7 @@
     {
       "Name": "SU_GoingDark_Belaya_AAS_v3_RSFvsUGF",
       "rawName": "SU_GoingDark_Belaya_AAS_v3_RSFvsUGF",
-      "levelName": "Belaya",
+      "levelName": "GoingDark",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "",
@@ -1437,7 +1437,7 @@
         "vehicles": []
       },
       "type": "",
-      "mapName": "Belaya",
+      "mapName": "GoingDark",
       "gamemode": "AAS",
       "layerVersion": "v3",
       "mapSize": "0x0 km",
@@ -1446,7 +1446,7 @@
     {
       "Name": "SU_GoingDark_Fallujah_RAAS_v4_WAGvsIGF",
       "rawName": "SU_GoingDark_Fallujah_RAAS_v4_WAGvsIGF",
-      "levelName": "Fallujah",
+      "levelName": "GoingDark",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "",
@@ -1474,7 +1474,7 @@
         "vehicles": []
       },
       "type": "",
-      "mapName": "Fallujah",
+      "mapName": "GoingDark",
       "gamemode": "RAAS",
       "layerVersion": "v4",
       "mapSize": "0x0 km",
@@ -1483,7 +1483,7 @@
     {
       "Name": "SU_GoingDark_Chora_RAAS_v1_FSFvUSASF",
       "rawName": "SU_GoingDark_Chora_RAAS_v1_FSFvUSASF",
-      "levelName": "Chora",
+      "levelName": "GoingDark",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "",
@@ -1511,7 +1511,7 @@
         "vehicles": []
       },
       "type": "",
-      "mapName": "Chora",
+      "mapName": "GoingDark",
       "gamemode": "RAAS",
       "layerVersion": "v1",
       "mapSize": "0x0 km",
@@ -1520,7 +1520,7 @@
     {
       "Name": "SU_GoingDark_Kokan_RAAS_v1_USMC10vIRIAGF",
       "rawName": "SU_GoingDark_Kokan_RAAS_v1_USMC10vIRIAGF",
-      "levelName": "Kokan",
+      "levelName": "GoingDark",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "",
@@ -1548,7 +1548,7 @@
         "vehicles": []
       },
       "type": "",
-      "mapName": "Kokan",
+      "mapName": "GoingDark",
       "gamemode": "RAAS",
       "layerVersion": "v1",
       "mapSize": "0x0 km",
@@ -1557,7 +1557,7 @@
     {
       "Name": "SU_GoingDark_Narva_RAAS_v1_IGFvFSA",
       "rawName": "SU_GoingDark_Narva_RAAS_v1_IGFvFSA",
-      "levelName": "Narva",
+      "levelName": "GoingDark",
       "minimapTexture": "",
       "lightingLevel": "",
       "lighting": "",
@@ -1585,7 +1585,7 @@
         "vehicles": []
       },
       "type": "",
-      "mapName": "Narva",
+      "mapName": "GoingDark",
       "gamemode": "RAAS",
       "layerVersion": "v1",
       "mapSize": "0x0 km",

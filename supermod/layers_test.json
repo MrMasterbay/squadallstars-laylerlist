@@ -2374,7 +2374,7 @@
       "levelName": "Lashkar",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "MidDay",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "ASF",
@@ -2485,7 +2485,7 @@
       "levelName": "Lashkar",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "MidDay",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "BAF",
@@ -2522,7 +2522,7 @@
       "levelName": "Manicouagan",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "MidDay",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "TLF",
@@ -2559,7 +2559,7 @@
       "levelName": "Manicouagan",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "MidDay",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "ASF",
@@ -2633,7 +2633,7 @@
       "levelName": "Manicouagan",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "MidDay",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "BAF",
@@ -2670,7 +2670,7 @@
       "levelName": "Manicouagan",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "MidDay",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "FSF",
@@ -2707,7 +2707,7 @@
       "levelName": "Manicouagan",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "MidDay",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "UKSF",
@@ -2781,7 +2781,7 @@
       "levelName": "Manicouagan",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "MidDay",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "USA",
@@ -2818,7 +2818,7 @@
       "levelName": "Mestia",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "MidDay",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "FSF",
@@ -2855,7 +2855,7 @@
       "levelName": "Mestia",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "MidDay",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "UKSF",
@@ -2892,7 +2892,7 @@
       "levelName": "Mestia",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "MidDay",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "USASF",
@@ -2929,7 +2929,7 @@
       "levelName": "Mestia",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "MidDay",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "FOG",
@@ -2966,7 +2966,7 @@
       "levelName": "Mutaha",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "MidDay",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "FOG",
@@ -3003,7 +3003,7 @@
       "levelName": "Mutaha",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "MidDay",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "USMC10",
@@ -3040,7 +3040,7 @@
       "levelName": "Mutaha",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "MidDay",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "FSA",
@@ -3077,7 +3077,7 @@
       "levelName": "Mutaha",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "MidDay",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "SAA",
@@ -3114,7 +3114,7 @@
       "levelName": "Mutaha",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "MidDay",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "IRIAGF",

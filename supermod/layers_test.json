@@ -1,0 +1,78 @@
+{
+  "Maps": [
+    {
+      "Name": "SU_AlBasrah_AAS_v1_SAAvFSA_MidDay",
+      "rawName": "SU_AlBasrah_AAS_v1_SAAvFSA_MidDay",
+      "levelName": "AlBasrah",
+      "minimapTexture": "",
+      "lightingLevel": "",
+      "lighting": "Day",
+      "border": [],
+      "team1": {
+        "faction": "SAA",
+        "teamSetupName": "SAA",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "FSA",
+        "teamSetupName": "FSA",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "type": "",
+      "mapName": "AlBasrah",
+      "gamemode": "AAS",
+      "layerVersion": "v1",
+      "mapSize": "0x0 km",
+      "mapSizeType": "Playable Area"
+    },
+    {
+      "Name": "SU_AlBasrah_Invasion_v1_75thvMEINS_Sunset",
+      "rawName": "SU_AlBasrah_Invasion_v1_75thvMEINS_Sunset",
+      "levelName": "AlBasrah",
+      "minimapTexture": "",
+      "lightingLevel": "",
+      "lighting": "Day",
+      "border": [],
+      "team1": {
+        "faction": "75th",
+        "teamSetupName": "75th",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "MEINS",
+        "teamSetupName": "MEINS",
+        "tickets": 0,
+        "playerPercent": 50,
+        "disabledVeh": true,
+        "intelOnEnemy": 0,
+        "actions": 0,
+        "commander": true,
+        "vehicles": []
+      },
+      "type": "",
+      "mapName": "AlBasrah",
+      "gamemode": "Invasion",
+      "layerVersion": "v1",
+      "mapSize": "0x0 km",
+      "mapSizeType": "Playable Area"
+    }    
+  ]
+}

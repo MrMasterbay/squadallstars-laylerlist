@@ -3336,7 +3336,7 @@
       "levelName": "Narva",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "Rain",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "IRIAGF",
@@ -3373,7 +3373,7 @@
       "levelName": "Narva",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "Afternoon",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "ADF",

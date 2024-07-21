@@ -3699,43 +3699,6 @@
       "layerVersion": "v1",
       "mapSize": "0x0 km",
       "mapSizeType": "Playable Area"
-    },
-    {
-      "Name": "SU_Tallil_RAAS_v2_IGFvSAA_Morning",
-      "rawName": "SU_Tallil_RAAS_v2_IGFvSAA_Morning",
-      "levelName": "Tallil",
-      "minimapTexture": "",
-      "lightingLevel": "",
-      "lighting": "Day",
-      "border": [],
-      "team1": {
-        "faction": "IGF",
-        "teamSetupName": "IGF",
-        "tickets": 0,
-        "playerPercent": 50,
-        "disabledVeh": true,
-        "intelOnEnemy": 0,
-        "actions": 0,
-        "commander": true,
-        "vehicles": []
-      },
-      "team2": {
-        "faction": "SAA",
-        "teamSetupName": "SAA",
-        "tickets": 0,
-        "playerPercent": 50,
-        "disabledVeh": true,
-        "intelOnEnemy": 0,
-        "actions": 0,
-        "commander": true,
-        "vehicles": []
-      },
-      "type": "",
-      "mapName": "Tallil",
-      "gamemode": "RAAS",
-      "layerVersion": "v2",
-      "mapSize": "0x0 km",
-      "mapSizeType": "Playable Area"
     }
   ]
 }

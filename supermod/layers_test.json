@@ -2411,7 +2411,7 @@
       "levelName": "Lashkar",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "Overcast",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "FSF",
@@ -2448,7 +2448,7 @@
       "levelName": "Lashkar",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "Rainstorm",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "USA",
@@ -2596,7 +2596,7 @@
       "levelName": "Manicouagan",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "Evening",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "USA",
@@ -2744,7 +2744,7 @@
       "levelName": "Manicouagan",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "Foggy",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "WAG",

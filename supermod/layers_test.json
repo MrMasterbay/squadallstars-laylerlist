@@ -3521,7 +3521,7 @@
       "levelName": "Tallil",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "MidDay",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "TLF",
@@ -3558,7 +3558,7 @@
       "levelName": "Tallil",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "NightStormy",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "USMC10",
@@ -3595,7 +3595,7 @@
       "levelName": "Tallil",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "MidDay",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "ISF",
@@ -3632,7 +3632,7 @@
       "levelName": "Tallil",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "Morning",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "IGF",
@@ -3669,7 +3669,7 @@
       "levelName": "Tallil",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "MidDay",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "SAA",
@@ -3706,7 +3706,7 @@
       "levelName": "Yehorivka",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "MidDay",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "RSF",
@@ -3743,7 +3743,7 @@
       "levelName": "Yehorivka",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "Spring",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "UGF",
@@ -3780,7 +3780,7 @@
       "levelName": "Yehorivka",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "Overcast",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "UGF",
@@ -3817,7 +3817,7 @@
       "levelName": "Yehorivka",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "MidDay",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "UKSF",
@@ -3854,7 +3854,7 @@
       "levelName": "Yehorivka",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "MidDay",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "75th",
@@ -3890,7 +3890,7 @@
       "levelName": "Yehorivka",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "Dawn",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "ADF",

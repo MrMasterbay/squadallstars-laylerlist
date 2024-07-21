@@ -2621,9 +2621,7 @@
         "vehicles": []
       },
       "type": "AAS",
-      "mapName": "
-
-Manicouagan",
+      "mapName": "Manicouagan",
       "gamemode": "AAS",
       "layerVersion": "v3",
       "mapSize": "0x0 km",
@@ -2874,9 +2872,7 @@ Manicouagan",
         "faction": "USF",
         "teamSetupName": "USF",
         "tickets": 0,
-        "playerPercent
-
-": 50,
+        "playerPercent": 50,
         "disabledVeh": true,
         "intelOnEnemy": 0,
         "actions": 0,

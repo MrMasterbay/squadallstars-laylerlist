@@ -857,7 +857,7 @@
       "levelName": "Chora",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "Evening",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "FSA",
@@ -968,7 +968,7 @@
       "levelName": "Chora",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "DustDay",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "USA",
@@ -1227,7 +1227,7 @@
       "levelName": "FoolsRoad",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "Evening",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "FSF",
@@ -1264,7 +1264,7 @@
       "levelName": "FoolsRoad",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "Evening",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "UGF",
@@ -2263,7 +2263,7 @@
         "levelName": "Harju",
         "minimapTexture": "",
         "lightingLevel": "",
-        "lighting": "Morning",
+        "lighting": "Day",
         "border": [],
         "team1": {
             "faction": "USASF",
@@ -2300,7 +2300,7 @@
         "levelName": "Kamdesh",
         "minimapTexture": "",
         "lightingLevel": "",
-        "lighting": "Stormy",
+        "lighting": "Day",
         "border": [],
         "team1": {
             "faction": "ADF",
@@ -2374,7 +2374,7 @@
         "levelName": "Kohat",
         "minimapTexture": "",
         "lightingLevel": "",
-        "lighting": "SandStorm",
+        "lighting": "Day",
         "border": [],
         "team1": {
             "faction": "USA",
@@ -2633,7 +2633,7 @@
       "levelName": "Kokan",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "Evening",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "BAF",
@@ -2781,7 +2781,7 @@
       "levelName": "Lashkar",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "Rainstorm",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "USA",
@@ -3521,7 +3521,7 @@
       "levelName": "Narva",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "Clouds",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "FSF",
@@ -3558,7 +3558,7 @@
       "levelName": "Narva",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "Clouds",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "TLF",
@@ -3669,7 +3669,7 @@
       "levelName": "Narva",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "Afternoon",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "ADF",
@@ -3854,7 +3854,7 @@
       "levelName": "Tallil",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "NightStormy",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "USMC10",
@@ -3928,7 +3928,7 @@
       "levelName": "Tallil",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "Morning",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "IGF",
@@ -4187,7 +4187,7 @@
       "levelName": "Yehorivka",
       "minimapTexture": "",
       "lightingLevel": "",
-      "lighting": "Dawn",
+      "lighting": "Day",
       "border": [],
       "team1": {
         "faction": "ADF",

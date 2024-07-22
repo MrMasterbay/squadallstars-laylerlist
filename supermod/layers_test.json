@@ -1,8 +1,8 @@
 {
   "Maps": [
     {
-      "Name": "SU_AlBasrah_AAS_v1_SAAvFSA_MidDay",
-      "rawName": "SU_AlBasrah_AAS_v1_SAAvFSA_MidDay",
+      "Name": "SU_AlBasrah_AAS_v1_SAAvsFSA_MidDay",
+      "rawName": "SU_AlBasrah_AAS_v1_SAAvsFSA_MidDay",
       "levelName": "AlBasrah",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -38,8 +38,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_AlBasrah_Invasion_v1_75thvMEINS_Sunset",
-      "rawName": "SU_AlBasrah_Invasion_v1_75thvMEINS_Sunset",
+      "Name": "SU_AlBasrah_Invasion_v1_75thvsMEINS_Sunset",
+      "rawName": "SU_AlBasrah_Invasion_v1_75thvsMEINS_Sunset",
       "levelName": "AlBasrah",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -75,8 +75,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_AlBasrah_Invasion_v2_UGFvIGF_MidDay",
-      "rawName": "SU_AlBasrah_Invasion_v2_UGFvIGF_MidDay",
+      "Name": "SU_AlBasrah_Invasion_v2_UGFvsIGF_MidDay",
+      "rawName": "SU_AlBasrah_Invasion_v2_UGFvsIGF_MidDay",
       "levelName": "AlBasrah",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -112,8 +112,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_AlBasrah_RAAS_v1_TLFvADF_MidDay",
-      "rawName": "SU_AlBasrah_RAAS_v1_TLFvADF_MidDay",
+      "Name": "SU_AlBasrah_RAAS_v1_TLFvsADF_MidDay",
+      "rawName": "SU_AlBasrah_RAAS_v1_TLFvsADF_MidDay",
       "levelName": "AlBasrah",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -149,8 +149,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_AlBasrah_Seed_v1_RGFvUSA_MidDay",
-      "rawName": "SU_AlBasrah_Seed_v1_RGFvUSA_MidDay",
+      "Name": "SU_AlBasrah_Seed_v1_RGFvsUSA_MidDay",
+      "rawName": "SU_AlBasrah_Seed_v1_RGFvsUSA_MidDay",
       "levelName": "AlBasrah",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -186,8 +186,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Anvil_AAS_v1_ADFvMEINS_MidDay",
-      "rawName": "SU_Anvil_AAS_v1_ADFvMEINS_MidDay",
+      "Name": "SU_Anvil_AAS_v1_ADFvsMEINS_MidDay",
+      "rawName": "SU_Anvil_AAS_v1_ADFvsMEINS_MidDay",
       "levelName": "Anvil",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -223,8 +223,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Anvil_Invasion_v1_FSFvMEINS_MidDay",
-      "rawName": "SU_Anvil_Invasion_v1_FSFvMEINS_MidDay",
+      "Name": "SU_Anvil_Invasion_v1_FSFvsMEINS_MidDay",
+      "rawName": "SU_Anvil_Invasion_v1_FSFvsMEINS_MidDay",
       "levelName": "Anvil",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -260,8 +260,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Anvil_RAAS_v1_BAFvIRIAGF_MidDay",
-      "rawName": "SU_Anvil_RAAS_v1_BAFvIRIAGF_MidDay",
+      "Name": "SU_Anvil_RAAS_v1_BAFvsIRIAGF_MidDay",
+      "rawName": "SU_Anvil_RAAS_v1_BAFvsIRIAGF_MidDay",
       "levelName": "Anvil",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -297,8 +297,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Anvil_RAAS_v2_USAvIRIAGF_MidDay",
-      "rawName": "SU_Anvil_RAAS_v2_USAvIRIAGF_MidDay",
+      "Name": "SU_Anvil_RAAS_v2_USAvsIRIAGF_MidDay",
+      "rawName": "SU_Anvil_RAAS_v2_USAvsIRIAGF_MidDay",
       "levelName": "Anvil",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -334,8 +334,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Belaya_AAS_v1_UGFvADF_Overcast",
-      "rawName": "SU_Belaya_AAS_v1_UGFvADF_Overcast",
+      "Name": "SU_Belaya_AAS_v1_UGFvsADF_Overcast",
+      "rawName": "SU_Belaya_AAS_v1_UGFvsADF_Overcast",
       "levelName": "Belaya",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -371,8 +371,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Belaya_AAS_v2_USAvTLF_MidDay",
-      "rawName": "SU_Belaya_AAS_v2_USAvTLF_MidDay",
+      "Name": "SU_Belaya_AAS_v2_USAvsTLF_MidDay",
+      "rawName": "SU_Belaya_AAS_v2_USAvsTLF_MidDay",
       "levelName": "Belaya",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -408,8 +408,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Belaya_AAS_v3_USMC10vBAF_Spring",
-      "rawName": "SU_Belaya_AAS_v3_USMC10vBAF_Spring",
+      "Name": "SU_Belaya_AAS_v3_USMC10vsBAF_Spring",
+      "rawName": "SU_Belaya_AAS_v3_USMC10vsBAF_Spring",
       "levelName": "Belaya",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -445,8 +445,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Belaya_RAAS_v1_MFRvADF_Foggy",
-      "rawName": "SU_Belaya_RAAS_v1_MFRvADF_Foggy",
+      "Name": "SU_Belaya_RAAS_v1_MFRvsADF_Foggy",
+      "rawName": "SU_Belaya_RAAS_v1_MFRvsADF_Foggy",
       "levelName": "Belaya",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -482,8 +482,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_BlackCoast_AAS_v1_USMC10vIGF_Overcast",
-      "rawName": "SU_BlackCoast_AAS_v1_USMC10vIGF_Overcast",
+      "Name": "SU_BlackCoast_AAS_v1_USMC10vsIGF_Overcast",
+      "rawName": "SU_BlackCoast_AAS_v1_USMC10vsIGF_Overcast",
       "levelName": "BlackCoast",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -519,8 +519,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_BlackCoast_AAS_v2_WAGvBAF_MidDay",
-      "rawName": "SU_BlackCoast_AAS_v2_WAGvBAF_MidDay",
+      "Name": "SU_BlackCoast_AAS_v2_WAGvsBAF_MidDay",
+      "rawName": "SU_BlackCoast_AAS_v2_WAGvsBAF_MidDay",
       "levelName": "BlackCoast",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -556,8 +556,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_BlackCoast_Invasion_v1_UGFvRGF_MidDay",
-      "rawName": "SU_BlackCoast_Invasion_v1_UGFvRGF_MidDay",
+      "Name": "SU_BlackCoast_Invasion_v1_UGFvsRGF_MidDay",
+      "rawName": "SU_BlackCoast_Invasion_v1_UGFvsRGF_MidDay",
       "levelName": "BlackCoast",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -593,8 +593,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_BlackCoast_Invasion_v2_RSFvUGF_MidDay",
-      "rawName": "SU_BlackCoast_Invasion_v2_RSFvUGF_MidDay",
+      "Name": "SU_BlackCoast_Invasion_v2_RSFvsUGF_MidDay",
+      "rawName": "SU_BlackCoast_Invasion_v2_RSFvsUGF_MidDay",
       "levelName": "BlackCoast",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -630,8 +630,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_BlackCoast_RAAS_v1_BAFvUSA_MidDay",
-      "rawName": "SU_BlackCoast_RAAS_v1_BAFvUSA_MidDay",
+      "Name": "SU_BlackCoast_RAAS_v1_BAFvsUSA_MidDay",
+      "rawName": "SU_BlackCoast_RAAS_v1_BAFvsUSA_MidDay",
       "levelName": "BlackCoast",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -667,8 +667,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_BlackCoast_RAAS_v2_MFRvUGF_MidDay",
-      "rawName": "SU_BlackCoast_RAAS_v2_MFRvUGF_MidDay",
+      "Name": "SU_BlackCoast_RAAS_v2_MFRvsUGF_MidDay",
+      "rawName": "SU_BlackCoast_RAAS_v2_MFRvsUGF_MidDay",
       "levelName": "BlackCoast",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -704,8 +704,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_BlackCoast_Seed_v1_RSFvUSF_Overcast",
-      "rawName": "SU_BlackCoast_Seed_v1_RSFvUSF_Overcast",
+      "Name": "SU_BlackCoast_Seed_v1_RSFvsUSF_Overcast",
+      "rawName": "SU_BlackCoast_Seed_v1_RSFvsUSF_Overcast",
       "levelName": "BlackCoast",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -741,8 +741,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_BlackCoast_Seed_v2_FSFv75th_Overcast",
-      "rawName": "SU_BlackCoast_Seed_v2_FSFv75th_Overcast",
+      "Name": "SU_BlackCoast_Seed_v2_FSFsv75th_Overcast",
+      "rawName": "SU_BlackCoast_Seed_v2_FSFsv75th_Overcast",
       "levelName": "BlackCoast",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -778,8 +778,8 @@
       "mapSizeType": "Playable Area"
     },
 {
-      "Name": "SU_Chora_AAS_v1_FSFvISF_MidDay",
-      "rawName": "SU_Chora_AAS_v1_FSFvISF_MidDay",
+      "Name": "SU_Chora_AAS_v1_FSFvsISF_MidDay",
+      "rawName": "SU_Chora_AAS_v1_FSFvsISF_MidDay",
       "levelName": "Chora",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -815,8 +815,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Chora_AAS_v2_ADFvWAG_Overcast",
-      "rawName": "SU_Chora_AAS_v2_ADFvWAG_Overcast",
+      "Name": "SU_Chora_AAS_v2_ADFvsWAG_Overcast",
+      "rawName": "SU_Chora_AAS_v2_ADFvsWAG_Overcast",
       "levelName": "Chora",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -852,8 +852,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Chora_AAS_v3_FSAvSAA_Evening",
-      "rawName": "SU_Chora_AAS_v3_FSAvSAA_Evening",
+      "Name": "SU_Chora_AAS_v3_FSAvsSAA_Evening",
+      "rawName": "SU_Chora_AAS_v3_FSAvsSAA_Evening",
       "levelName": "Chora",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -889,8 +889,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Chora_Invasion_v1_USMC10vMEINS_MidDay",
-      "rawName": "SU_Chora_Invasion_v1_USMC10vMEINS_MidDay",
+      "Name": "SU_Chora_Invasion_v1_USMC10vsMEINS_MidDay",
+      "rawName": "SU_Chora_Invasion_v1_USMC10vsMEINS_MidDay",
       "levelName": "Chora",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -926,8 +926,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Chora_RAAS_v1_BAFvIRIAGF_MidDay",
-      "rawName": "SU_Chora_RAAS_v1_BAFvIRIAGF_MidDay",
+      "Name": "SU_Chora_RAAS_v1_BAFvsIRIAGF_MidDay",
+      "rawName": "SU_Chora_RAAS_v1_BAFvsIRIAGF_MidDay",
       "levelName": "Chora",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -963,8 +963,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Chora_KOTH_v1_USAvSAA_DustDay",
-      "rawName": "SU_Chora_KOTH_v1_USAvSAA_DustDay",
+      "Name": "SU_Chora_KOTH_v1_USAvsSAA_DustDay",
+      "rawName": "SU_Chora_KOTH_v1_USAvsSAA_DustDay",
       "levelName": "Chora",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -1000,8 +1000,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Fallujah_AAS_v1_USASFvISF_MidDay",
-      "rawName": "SU_Fallujah_AAS_v1_USASFvISF_MidDay",
+      "Name": "SU_Fallujah_AAS_v1_USASFvsISF_MidDay",
+      "rawName": "SU_Fallujah_AAS_v1_USASFvsISF_MidDay",
       "levelName": "Fallujah",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -1037,8 +1037,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Fallujah_Invasion_v1_IGFvMEINS_MidDay",
-      "rawName": "SU_Fallujah_Invasion_v1_IGFvMEINS_MidDay",
+      "Name": "SU_Fallujah_Invasion_v1_IGFvsMEINS_MidDay",
+      "rawName": "SU_Fallujah_Invasion_v1_IGFvsMEINS_MidDay",
       "levelName": "Fallujah",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -1074,8 +1074,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Fallujah_Invasion_v2_FOGvMEINS_MidDay",
-      "rawName": "SU_Fallujah_Invasion_v2_FOGvMEINS_MidDay",
+      "Name": "SU_Fallujah_Invasion_v2_FOGvsMEINS_MidDay",
+      "rawName": "SU_Fallujah_Invasion_v2_FOGvsMEINS_MidDay",
       "levelName": "Fallujah",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -1111,8 +1111,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Fallujah_RAAS_v1_IGFvFSA_MidDay",
-      "rawName": "SU_Fallujah_RAAS_v1_IGFvFSA_MidDay",
+      "Name": "SU_Fallujah_RAAS_v1_IGFvsFSA_MidDay",
+      "rawName": "SU_Fallujah_RAAS_v1_IGFvsFSA_MidDay",
       "levelName": "Fallujah",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -1148,8 +1148,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Fallujah_RAAS_v2_IRIAGFvUSA_MidDay",
-      "rawName": "SU_Fallujah_RAAS_v2_IRIAGFvUSA_MidDay",
+      "Name": "SU_Fallujah_RAAS_v2_IRIAGFvsUSA_MidDay",
+      "rawName": "SU_Fallujah_RAAS_v2_IRIAGFvsUSA_MidDay",
       "levelName": "Fallujah",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -1185,8 +1185,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Fallujah_Seed_v1_75thvRSF_MidDay",
-      "rawName": "SU_Fallujah_Seed_v1_75thvRSF_MidDay",
+      "Name": "SU_Fallujah_Seed_v1_75thvsRSF_MidDay",
+      "rawName": "SU_Fallujah_Seed_v1_75thvsRSF_MidDay",
       "levelName": "Fallujah",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -1407,8 +1407,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_GooseBay_AAS_v1_USAvBAF_MidDay",
-      "rawName": "SU_GooseBay_AAS_v1_USAvBAF_MidDay",
+      "Name": "SU_GooseBay_AAS_v1_USAvsBAF_MidDay",
+      "rawName": "SU_GooseBay_AAS_v1_USAvsBAF_MidDay",
       "levelName": "GooseBay",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -1444,8 +1444,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_GooseBay_Invasion_v1_TLFvUSMC10_Overcast",
-      "rawName": "SU_GooseBay_Invasion_v1_TLFvUSMC10_Overcast",
+      "Name": "SU_GooseBay_Invasion_v1_TLFvsUSMC10_Overcast",
+      "rawName": "SU_GooseBay_Invasion_v1_TLFvsUSMC10_Overcast",
       "levelName": "GooseBay",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -1481,8 +1481,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_GooseBay_RAAS_v1_ASFvWAG_Overcast",
-      "rawName": "SU_GooseBay_RAAS_v1_ASFvWAG_Overcast",
+      "Name": "SU_GooseBay_RAAS_v1_ASFvsWAG_Overcast",
+      "rawName": "SU_GooseBay_RAAS_v1_ASFvsWAG_Overcast",
       "levelName": "GooseBay",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -1518,8 +1518,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_GooseBay_RAAS_v2_USAvADF_MidDay",
-      "rawName": "SU_GooseBay_RAAS_v2_USAvADF_MidDay",
+      "Name": "SU_GooseBay_RAAS_v2_USAvsADF_MidDay",
+      "rawName": "SU_GooseBay_RAAS_v2_USAvsADF_MidDay",
       "levelName": "GooseBay",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -1555,8 +1555,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_GooseBay_Seed_v1_RSFvFOG_MidDay",
-      "rawName": "SU_GooseBay_Seed_v1_RSFvFOG_MidDay",
+      "Name": "SU_GooseBay_Seed_v1_RSFvsFOG_MidDay",
+      "rawName": "SU_GooseBay_Seed_v1_RSFvsFOG_MidDay",
       "levelName": "GooseBay",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -1592,8 +1592,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Gorodok_AAS_v1_UGFvUSMC10_MidDay",
-      "rawName": "SU_Gorodok_AAS_v1_UGFvUSMC10_MidDay",
+      "Name": "SU_Gorodok_AAS_v1_UGFvsUSMC10_MidDay",
+      "rawName": "SU_Gorodok_AAS_v1_UGFvsUSMC10_MidDay",
       "levelName": "Gorodok",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -1629,8 +1629,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Gorodok_Invasion_v1_RSFvUGF_MidDay",
-      "rawName": "SU_Gorodok_Invasion_v1_RSFvUGF_MidDay",
+      "Name": "SU_Gorodok_Invasion_v1_RSFvsUGF_MidDay",
+      "rawName": "SU_Gorodok_Invasion_v1_RSFvsUGF_MidDay",
       "levelName": "Gorodok",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -1703,8 +1703,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Gorodok_RAAS_v1_FSFvADF_MidDay",
-      "rawName": "SU_Gorodok_RAAS_v1_FSFvADF_MidDay",
+      "Name": "SU_Gorodok_RAAS_v1_FSFvsADF_MidDay",
+      "rawName": "SU_Gorodok_RAAS_v1_FSFvsADF_MidDay",
       "levelName": "Gorodok",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -1740,8 +1740,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Gorodok_RAAS_v2_TLFvUGF_MidDay",
-      "rawName": "SU_Gorodok_RAAS_v2_TLFvUGF_MidDay",
+      "Name": "SU_Gorodok_RAAS_v2_TLFvsUGF_MidDay",
+      "rawName": "SU_Gorodok_RAAS_v2_TLFvsUGF_MidDay",
       "levelName": "Gorodok",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -1777,8 +1777,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Harju_AAS_v1_UGFvTLF_MidDay",
-      "rawName": "SU_Harju_AAS_v1_UGFvTLF_MidDay",
+      "Name": "SU_Harju_AAS_v1_UGFvsTLF_MidDay",
+      "rawName": "SU_Harju_AAS_v1_UGFvsTLF_MidDay",
       "levelName": "Harju",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -1814,8 +1814,8 @@
       "mapSizeType": "Playable Area"
     },
         {
-      "Name": "SU_Harju_AAS_v2_USMC10vSAA_MidDay",
-      "rawName": "SU_Harju_AAS_v2_USMC10vSAA_MidDay",
+      "Name": "SU_Harju_AAS_v2_USMC10vsSAA_MidDay",
+      "rawName": "SU_Harju_AAS_v2_USMC10vsSAA_MidDay",
       "levelName": "Harju",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -1851,8 +1851,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Harju_AAS_v3_USMC10vFSA_MidDay",
-      "rawName": "SU_Harju_AAS_v3_USMC10vFSA_MidDay",
+      "Name": "SU_Harju_AAS_v3_USMC10vsFSA_MidDay",
+      "rawName": "SU_Harju_AAS_v3_USMC10vsFSA_MidDay",
       "levelName": "Harju",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -1888,8 +1888,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Harju_Invasion_v1_RGFvUSA_MidDay",
-      "rawName": "SU_Harju_Invasion_v1_RGFvUSA_MidDay",
+      "Name": "SU_Harju_Invasion_v1_RGFvsUSA_MidDay",
+      "rawName": "SU_Harju_Invasion_v1_RGFvsUSA_MidDay",
       "levelName": "Harju",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -1925,8 +1925,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Harju_Invasion_v2_UKSFvTLF_Overcast",
-      "rawName": "SU_Harju_Invasion_v2_UKSFvTLF_Overcast",
+      "Name": "SU_Harju_Invasion_v2_UKSFvsTLF_Overcast",
+      "rawName": "SU_Harju_Invasion_v2_UKSFvsTLF_Overcast",
       "levelName": "Harju",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -1962,8 +1962,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Harju_Invasion_v3_ASFvSAA_MidDay",
-      "rawName": "SU_Harju_Invasion_v3_ASFvSAA_MidDay",
+      "Name": "SU_Harju_Invasion_v3_ASFvsSAA_MidDay",
+      "rawName": "SU_Harju_Invasion_v3_ASFvsSAA_MidDay",
       "levelName": "Harju",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -1999,8 +1999,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Harju_RAAS_v1_UGFvUSMC10_MidDay",
-      "rawName": "SU_Harju_RAAS_v1_UGFvUSMC10_MidDay",
+      "Name": "SU_Harju_RAAS_v1_UGFvsUSMC10_MidDay",
+      "rawName": "SU_Harju_RAAS_v1_UGFvsUSMC10_MidDay",
       "levelName": "Harju",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -2036,8 +2036,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-        "Name": "SU_Harju_RAAS_v2_USAvIGF_MidDay",
-        "rawName": "SU_Harju_RAAS_v2_USAvIGF_MidDay",
+        "Name": "SU_Harju_RAAS_v2_USAvsIGF_MidDay",
+        "rawName": "SU_Harju_RAAS_v2_USAvsIGF_MidDay",
         "levelName": "Harju",
         "minimapTexture": "",
         "lightingLevel": "",
@@ -2073,8 +2073,8 @@
         "mapSizeType": "Playable Area"
     },
     {
-        "Name": "SU_Harju_Seed_v1_USASFvWAG_Morning",
-        "rawName": "SU_Harju_Seed_v1_USASFvWAG_Morning",
+        "Name": "SU_Harju_Seed_v1_USASFvsWAG_Morning",
+        "rawName": "SU_Harju_Seed_v1_USASFvsWAG_Morning",
         "levelName": "Harju",
         "minimapTexture": "",
         "lightingLevel": "",
@@ -2110,8 +2110,8 @@
         "mapSizeType": "Playable Area"
     },
     {
-        "Name": "SU_Kamdesh_AAS_v1_ADFvTLF_Stormy",
-        "rawName": "SU_Kamdesh_AAS_v1_ADFvTLF_Stormy",
+        "Name": "SU_Kamdesh_AAS_v1_ADFvsTLF_Stormy",
+        "rawName": "SU_Kamdesh_AAS_v1_ADFvsTLF_Stormy",
         "levelName": "Kamdesh",
         "minimapTexture": "",
         "lightingLevel": "",
@@ -2147,8 +2147,8 @@
         "mapSizeType": "Playable Area"
     },
     {
-        "Name": "SU_Kamdesh_RAAS_v1_BAFvUSMC10_MidDay",
-        "rawName": "SU_Kamdesh_RAAS_v1_BAFvUSMC10_MidDay",
+        "Name": "SU_Kamdesh_RAAS_v1_BAFvsUSMC10_MidDay",
+        "rawName": "SU_Kamdesh_RAAS_v1_BAFvsUSMC10_MidDay",
         "levelName": "Kamdesh",
         "minimapTexture": "",
         "lightingLevel": "",
@@ -2184,8 +2184,8 @@
         "mapSizeType": "Playable Area"
     },
     {
-        "Name": "SU_Kohat_AAS_v1_USAvBAF_SandStorm",
-        "rawName": "SU_Kohat_AAS_v1_USAvBAF_SandStorm",
+        "Name": "SU_Kohat_AAS_v1_USAvsBAF_SandStorm",
+        "rawName": "SU_Kohat_AAS_v1_USAvsBAF_SandStorm",
         "levelName": "Kohat",
         "minimapTexture": "",
         "lightingLevel": "",
@@ -2221,8 +2221,8 @@
         "mapSizeType": "Playable Area"
     },
     {
-        "Name": "SU_Kohat_RAAS_v1_FSAvSAA_Overcast",
-        "rawName": "SU_Kohat_RAAS_v1_FSAvSAA_Overcast",
+        "Name": "SU_Kohat_RAAS_v1_FSAvsSAA_Overcast",
+        "rawName": "SU_Kohat_RAAS_v1_FSAvsSAA_Overcast",
         "levelName": "Kohat",
         "minimapTexture": "",
         "lightingLevel": "",
@@ -2258,8 +2258,8 @@
         "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Kohat_RAAS_v2_IRIAGFvADF_MidDay",
-      "rawName": "SU_Kohat_RAAS_v2_IRIAGFvADF_MidDay",
+      "Name": "SU_Kohat_RAAS_v2_IRIAGFvsADF_MidDay",
+      "rawName": "SU_Kohat_RAAS_v2_IRIAGFvsADF_MidDay",
       "levelName": "Kohat",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -2295,8 +2295,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Kohat_Invasion_v1_ISFvMEINS_MidDay",
-      "rawName": "SU_Kohat_Invasion_v1_ISFvMEINS_MidDay",
+      "Name": "SU_Kohat_Invasion_v1_ISFvsMEINS_MidDay",
+      "rawName": "SU_Kohat_Invasion_v1_ISFvsMEINS_MidDay",
       "levelName": "Kohat",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -2332,8 +2332,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Kohat_Invasion_v2_IGFvSAA_MidDay",
-      "rawName": "SU_Kohat_Invasion_v2_IGFvSAA_MidDay",
+      "Name": "SU_Kohat_Invasion_v2_IGFvsSAA_MidDay",
+      "rawName": "SU_Kohat_Invasion_v2_IGFvsSAA_MidDay",
       "levelName": "Kohat",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -2369,8 +2369,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Lashkar_AAS_v1_ASFvMEINS_MidDay",
-      "rawName": "SU_Lashkar_AAS_v1_ASFvMEINS_MidDay",
+      "Name": "SU_Lashkar_AAS_v1_ASFvsMEINS_MidDay",
+      "rawName": "SU_Lashkar_AAS_v1_ASFvsMEINS_MidDay",
       "levelName": "Lashkar",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -2406,8 +2406,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Lashkar_AAS_v2_FSFvIRGC_Overcast",
-      "rawName": "SU_Lashkar_AAS_v2_FSFvIRGC_Overcast",
+      "Name": "SU_Lashkar_AAS_v2_FSFvsIRGC_Overcast",
+      "rawName": "SU_Lashkar_AAS_v2_FSFvsIRGC_Overcast",
       "levelName": "Lashkar",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -2443,8 +2443,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Lashkar_Invasion_v1_USAvIGF_Rainstorm",
-      "rawName": "SU_Lashkar_Invasion_v1_USAvIGF_Rainstorm",
+      "Name": "SU_Lashkar_Invasion_v1_USAvsIGF_Rainstorm",
+      "rawName": "SU_Lashkar_Invasion_v1_USAvsIGF_Rainstorm",
       "levelName": "Lashkar",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -2480,8 +2480,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Lashkar_RAAS_v1_BAFvTLF_MidDay",
-      "rawName": "SU_Lashkar_RAAS_v1_BAFvTLF_MidDay",
+      "Name": "SU_Lashkar_RAAS_v1_BAFvsTLF_MidDay",
+      "rawName": "SU_Lashkar_RAAS_v1_BAFvsTLF_MidDay",
       "levelName": "Lashkar",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -2517,8 +2517,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Manicouagan_AAS_v1_TLFvADF_MidDay",
-      "rawName": "SU_Manicouagan_AAS_v1_TLFvADF_MidDay",
+      "Name": "SU_Manicouagan_AAS_v1_TLFvsADF_MidDay",
+      "rawName": "SU_Manicouagan_AAS_v1_TLFvsADF_MidDay",
       "levelName": "Manicouagan",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -2554,8 +2554,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Manicouagan_AAS_v2_ASFvUGF_MidDay",
-      "rawName": "SU_Manicouagan_AAS_v2_ASFvUGF_MidDay",
+      "Name": "SU_Manicouagan_AAS_v2_ASFvsUGF_MidDay",
+      "rawName": "SU_Manicouagan_AAS_v2_ASFvsUGF_MidDay",
       "levelName": "Manicouagan",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -2591,8 +2591,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Manicouagan_AAS_v3_USAvTLF_Evening",
-      "rawName": "SU_Manicouagan_AAS_v3_USAvTLF_Evening",
+      "Name": "SU_Manicouagan_AAS_v3_USAvsTLF_Evening",
+      "rawName": "SU_Manicouagan_AAS_v3_USAvsTLF_Evening",
       "levelName": "Manicouagan",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -2628,8 +2628,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Manicouagan_RAAS_v1_BAFvSAA_MidDay",
-      "rawName": "SU_Manicouagan_RAAS_v1_BAFvSAA_MidDay",
+      "Name": "SU_Manicouagan_RAAS_v1_BAFvsSAA_MidDay",
+      "rawName": "SU_Manicouagan_RAAS_v1_BAFvsSAA_MidDay",
       "levelName": "Manicouagan",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -2665,8 +2665,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Manicouagan_RAAS_v2_FSFvRGF_MidDay",
-      "rawName": "SU_Manicouagan_RAAS_v2_FSFvRGF_MidDay",
+      "Name": "SU_Manicouagan_RAAS_v2_FSFvsRGF_MidDay",
+      "rawName": "SU_Manicouagan_RAAS_v2_FSFvsRGF_MidDay",
       "levelName": "Manicouagan",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -2702,8 +2702,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Manicouagan_Invasion_v1_UKSFvTLF_MidDay",
-      "rawName": "SU_Manicouagan_Invasion_v1_UKSFvTLF_MidDay",
+      "Name": "SU_Manicouagan_Invasion_v1_UKSFvsTLF_MidDay",
+      "rawName": "SU_Manicouagan_Invasion_v1_UKSFvsTLF_MidDay",
       "levelName": "Manicouagan",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -2739,8 +2739,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Manicouagan_Invasion_v2_WAGvBAF_Foggy",
-      "rawName": "SU_Manicouagan_Invasion_v2_WAGvBAF_Foggy",
+      "Name": "SU_Manicouagan_Invasion_v2_WAGvsBAF_Foggy",
+      "rawName": "SU_Manicouagan_Invasion_v2_WAGvsBAF_Foggy",
       "levelName": "Manicouagan",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -2813,8 +2813,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Mestia_AAS_v1_FSFvMFR_MidDay",
-      "rawName": "SU_Mestia_AAS_v1_FSFvMFR_MidDay",
+      "Name": "SU_Mestia_AAS_v1_FSFvsMFR_MidDay",
+      "rawName": "SU_Mestia_AAS_v1_FSFvsMFR_MidDay",
       "levelName": "Mestia",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -2850,8 +2850,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Mestia_AAS_v2_UKSFvUSF_MidDay",
-      "rawName": "SU_Mestia_AAS_v2_UKSFvUSF_MidDay",
+      "Name": "SU_Mestia_AAS_v2_UKSFvsUSF_MidDay",
+      "rawName": "SU_Mestia_AAS_v2_UKSFvsUSF_MidDay",
       "levelName": "Mestia",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -2961,8 +2961,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Mutaha_AAS_v1_FOGvIGF_MidDay",
-      "rawName": "SU_Mutaha_AAS_v1_FOGvIGF_MidDay",
+      "Name": "SU_Mutaha_AAS_v1_FOGvsIGF_MidDay",
+      "rawName": "SU_Mutaha_AAS_v1_FOGvsIGF_MidDay",
       "levelName": "Mutaha",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -2998,8 +2998,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Mutaha_AAS_v2_USMC10vSAA_MidDay",
-      "rawName": "SU_Mutaha_AAS_v2_USMC10vSAA_MidDay",
+      "Name": "SU_Mutaha_AAS_v2_USMC10vsSAA_MidDay",
+      "rawName": "SU_Mutaha_AAS_v2_USMC10vsSAA_MidDay",
       "levelName": "Mutaha",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -3035,8 +3035,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Mutaha_Invasion_v1_FSAvMEINS_MidDay",
-      "rawName": "SU_Mutaha_Invasion_v1_FSAvMEINS_MidDay",
+      "Name": "SU_Mutaha_Invasion_v1_FSAvsMEINS_MidDay",
+      "rawName": "SU_Mutaha_Invasion_v1_FSAvsMEINS_MidDay",
       "levelName": "Mutaha",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -3072,8 +3072,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Mutaha_RAAS_v1_SAAvUSA_MidDay",
-      "rawName": "SU_Mutaha_RAAS_v1_SAAvUSA_MidDay",
+      "Name": "SU_Mutaha_RAAS_v1_SAAvsUSA_MidDay",
+      "rawName": "SU_Mutaha_RAAS_v1_SAAvsUSA_MidDay",
       "levelName": "Mutaha",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -3109,8 +3109,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Mutaha_RAAS_v2_IRIAGFvTLF_MidDay",
-      "rawName": "SU_Mutaha_RAAS_v2_IRIAGFvTLF_MidDay",
+      "Name": "SU_Mutaha_RAAS_v2_IRIAGFvsTLF_MidDay",
+      "rawName": "SU_Mutaha_RAAS_v2_IRIAGFvsTLF_MidDay",
       "levelName": "Mutaha",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -3146,8 +3146,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Narva_AAS_v1_FSFvTLF_Clouds",
-      "rawName": "SU_Narva_AAS_v1_FSFvTLF_Clouds",
+      "Name": "SU_Narva_AAS_v1_FSFvsTLF_Clouds",
+      "rawName": "SU_Narva_AAS_v1_FSFvsTLF_Clouds",
       "levelName": "Narva",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -3183,8 +3183,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Narva_AAS_v2_ADFvUGF_Spring",
-      "rawName": "SU_Narva_AAS_v2_ADFvUGF_Spring",
+      "Name": "SU_Narva_AAS_v2_ADFvsUGF_Spring",
+      "rawName": "SU_Narva_AAS_v2_ADFvsUGF_Spring",
       "levelName": "Narva",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -3220,8 +3220,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Narva_AAS_v3_USASFvRSF_Foggy",
-      "rawName": "SU_Narva_AAS_v3_USASFvRSF_Foggy",
+      "Name": "SU_Narva_AAS_v3_USASFvsRSF_Foggy",
+      "rawName": "SU_Narva_AAS_v3_USASFvsRSF_Foggy",
       "levelName": "Narva",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -3257,8 +3257,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Narva_Invasion_v1_TLFvUGF_Clouds",
-      "rawName": "SU_Narva_Invasion_v1_TLFvUGF_Clouds",
+      "Name": "SU_Narva_Invasion_v1_TLFvsUGF_Clouds",
+      "rawName": "SU_Narva_Invasion_v1_TLFvsUGF_Clouds",
       "levelName": "Narva",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -3294,8 +3294,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Narva_Invasion_v2_USKFvRGF_MidDay",
-      "rawName": "SU_Narva_Invasion_v2_USKFvRGF_MidDay",
+      "Name": "SU_Narva_Invasion_v2_USKFvsRGF_MidDay",
+      "rawName": "SU_Narva_Invasion_v2_USKFvsRGF_MidDay",
       "levelName": "Narva",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -3331,8 +3331,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Narva_RAAS_v1_IRIAGFvUSA_Rain",
-      "rawName": "SU_Narva_RAAS_v1_IRIAGFvUSA_Rain",
+      "Name": "SU_Narva_RAAS_v1_IRIAGFvsUSA_Rain",
+      "rawName": "SU_Narva_RAAS_v1_IRIAGFvsUSA_Rain",
       "levelName": "Narva",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -3405,8 +3405,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Skorpo_Invasion_v1_BAFvUSMC10_MidDay",
-      "rawName": "SU_Skorpo_Invasion_v1_BAFvUSMC10_MidDay",
+      "Name": "SU_Skorpo_Invasion_v1_BAFvsUSMC10_MidDay",
+      "rawName": "SU_Skorpo_Invasion_v1_BAFvsUSMC10_MidDay",
       "levelName": "Skorpo",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -3442,8 +3442,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Skorpo_Invasion_v2_USMC10vTLF_MidDay",
-      "rawName": "SU_Skorpo_Invasion_v2_USMC10vTLF_MidDay",
+      "Name": "SU_Skorpo_Invasion_v2_USMC10vsTLF_MidDay",
+      "rawName": "SU_Skorpo_Invasion_v2_USMC10vsTLF_MidDay",
       "levelName": "Skorpo",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -3479,8 +3479,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Skorpo_RAAS_v1_ADFvBAF_MidDay",
-      "rawName": "SU_Skorpo_RAAS_v1_ADFvBAF_MidDay",
+      "Name": "SU_Skorpo_RAAS_v1_ADFvsBAF_MidDay",
+      "rawName": "SU_Skorpo_RAAS_v1_ADFvsBAF_MidDay",
       "levelName": "Skorpo",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -3516,8 +3516,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Tallil_AAS_v1_TLFvIRIAGF_MidDay",
-      "rawName": "SU_Tallil_AAS_v1_TLFvIRIAGF_MidDay",
+      "Name": "SU_Tallil_AAS_v1_TLFvsIRIAGF_MidDay",
+      "rawName": "SU_Tallil_AAS_v1_TLFvsIRIAGF_MidDay",
       "levelName": "Tallil",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -3553,8 +3553,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Tallil_Invasion_v1_USMC10vMEINS_NightStormy",
-      "rawName": "SU_Tallil_Invasion_v1_USMC10vMEINS_NightStormy",
+      "Name": "SU_Tallil_Invasion_v1_USMC10vsMEINS_NightStormy",
+      "rawName": "SU_Tallil_Invasion_v1_USMC10vsMEINS_NightStormy",
       "levelName": "Tallil",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -3590,8 +3590,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Tallil_RAAS_v1_ISFvFSA_MidDay",
-      "rawName": "SU_Tallil_RAAS_v1_ISFvFSA_MidDay",
+      "Name": "SU_Tallil_RAAS_v1_ISFvsFSA_MidDay",
+      "rawName": "SU_Tallil_RAAS_v1_ISFvsFSA_MidDay",
       "levelName": "Tallil",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -3627,8 +3627,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Tallil_RAAS_v2_IGFvSAA_Morning",
-      "rawName": "SU_Tallil_RAAS_v2_IGFvSAA_Morning",
+      "Name": "SU_Tallil_RAAS_v2_IGFvsSAA_Morning",
+      "rawName": "SU_Tallil_RAAS_v2_IGFvsSAA_Morning",
       "levelName": "Tallil",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -3664,8 +3664,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Tallil_Seed_v1_SAAvTLF_MidDay",
-      "rawName": "SU_Tallil_Seed_v1_SAAvTLF_MidDay",
+      "Name": "SU_Tallil_Seed_v1_SAAvsTLF_MidDay",
+      "rawName": "SU_Tallil_Seed_v1_SAAvsTLF_MidDay",
       "levelName": "Tallil",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -3701,8 +3701,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Yehorivka_AAS_v1_RSFvTLF_MidDay",
-      "rawName": "SU_Yehorivka_AAS_v1_RSFvTLF_MidDay",
+      "Name": "SU_Yehorivka_AAS_v1_RSFvsTLF_MidDay",
+      "rawName": "SU_Yehorivka_AAS_v1_RSFvsTLF_MidDay",
       "levelName": "Yehorivka",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -3738,8 +3738,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Yehorivka_AAS_v2_UGFvBAF_Spring",
-      "rawName": "SU_Yehorivka_AAS_v2_UGFvBAF_Spring",
+      "Name": "SU_Yehorivka_AAS_v2_UGFvsBAF_Spring",
+      "rawName": "SU_Yehorivka_AAS_v2_UGFvsBAF_Spring",
       "levelName": "Yehorivka",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -3775,8 +3775,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Yehorivka_Invasion_v1_UGFvUSA_Overcast",
-      "rawName": "SU_Yehorivka_Invasion_v1_UGFvUSA_Overcast",
+      "Name": "SU_Yehorivka_Invasion_v1_UGFvsUSA_Overcast",
+      "rawName": "SU_Yehorivka_Invasion_v1_UGFvsUSA_Overcast",
       "levelName": "Yehorivka",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -3812,8 +3812,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Yehorivka_Invasion_v2_UKSFvUSMC10_MidDay",
-      "rawName": "SU_Yehorivka_Invasion_v2_UKSFvUSMC10_MidDay",
+      "Name": "SU_Yehorivka_Invasion_v2_UKSFvsUSMC10_MidDay",
+      "rawName": "SU_Yehorivka_Invasion_v2_UKSFvsUSMC10_MidDay",
       "levelName": "Yehorivka",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -3849,8 +3849,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Yehorivka_RAAS_v1_75thvRGF_MidDay",
-      "rawName": "SU_Yehorivka_RAAS_v1_75thvRGF_MidDay",
+      "Name": "SU_Yehorivka_RAAS_v1_75thvsRGF_MidDay",
+      "rawName": "SU_Yehorivka_RAAS_v1_75thvsRGF_MidDay",
       "levelName": "Yehorivka",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -3885,8 +3885,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Yehorivka_RAAS_v2_ADFvRSF_Dawn",
-      "rawName": "SU_Yehorivka_RAAS_v2_ADFvRSF_Dawn",
+      "Name": "SU_Yehorivka_RAAS_v2_ADFvsRSF_Dawn",
+      "rawName": "SU_Yehorivka_RAAS_v2_ADFvsRSF_Dawn",
       "levelName": "Yehorivka",
       "minimapTexture": "",
       "lightingLevel": "",

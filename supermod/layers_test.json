@@ -157,8 +157,8 @@
       "lighting": "Day",
       "border": [],
       "team1": {
-        "faction": "RGF",
-        "teamSetupName": "RGF",
+        "faction": "USA",
+        "teamSetupName": "USA",
         "tickets": 0,
         "playerPercent": 50,
         "disabledVeh": true,
@@ -168,8 +168,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "USA",
-        "teamSetupName": "USA",
+        "faction": "RGF",
+        "teamSetupName": "RGF",
         "tickets": 0,
         "playerPercent": 50,
         "disabledVeh": true,
@@ -2129,8 +2129,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "IGF",
-        "teamSetupName": "IGF",
+        "faction": "IsGF",
+        "teamSetupName": "IsGF",
         "tickets": 0,
         "playerPercent": 50,
         "disabledVeh": true,

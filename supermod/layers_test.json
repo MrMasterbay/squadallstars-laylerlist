@@ -2110,8 +2110,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Lashkar_Invasion_v1_USAvIsGF_Rainstorm",
-      "rawName": "SU_Lashkar_Invasion_v1_USAvIsGF_Rainstorm",
+      "Name": "SU_Lashkar_Invasion_v1_USAvsIGF_Rainstorm",
+      "rawName": "SU_Lashkar_Invasion_v1_USAvsIGF_Rainstorm",
       "levelName": "Lashkar",
       "minimapTexture": "",
       "lightingLevel": "",
@@ -2129,8 +2129,8 @@
         "vehicles": []
       },
       "team2": {
-        "faction": "IsGF",
-        "teamSetupName": "IsGF",
+        "faction": "IGF",
+        "teamSetupName": "IGF",
         "tickets": 0,
         "playerPercent": 50,
         "disabledVeh": true,
@@ -2332,8 +2332,8 @@
       "mapSizeType": "Playable Area"
     },
     {
-      "Name": "SU_Manicouagan_RAAS_v2_FSFvsRGF_MiDay",
-      "rawName": "SU_Manicouagan_RAAS_v2_FSFvsRGF_MiDay",
+      "Name": "SU_Manicouagan_RAAS_v2_FSFvsRGF_MidDay",
+      "rawName": "SU_Manicouagan_RAAS_v2_FSFvsRGF_MidDay",
       "levelName": "Manicouagan",
       "minimapTexture": "",
       "lightingLevel": "",
